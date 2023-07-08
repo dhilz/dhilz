@@ -45,6 +45,6 @@ Jika Tidak Keberatan, Silahkan Follow Dan beri Star 🥺👉👈
 
 📈 my github stats
 
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhilz&theme=github_dark">
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhilz&theme=github_dark&exclude=dockerfile,shell">
-<a align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhilz&theme=github_dark&exclude=dockerfile,shell">
-<a align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhilz&theme=github_dark&exclude=dockerfile,shell">
+<a align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhilz&theme=github_dark">
