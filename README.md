@@ -32,18 +32,6 @@ Saya Kini Berkecipung Di Dunia Programer NodeJs, PhP, Python, Sekaligus Pembuata
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-python          █████████░░░░░░░░░░░░░░░░   35.0 %
-NodeJs          █████████░░░░░░░░░░░░░░░░   35.0 %
-PhP             █████░░░░░░░░░░░░░░░░░░░░   20.0 %
-Other           ███░░░░░░░░░░░░░░░░░░░░░░   10.0 %
-```
-
-<!--END_SECTION:waka-->
-
 Jika Tidak Keberatan, Silahkan Follow Dan beri Star 🥺👉👈
 
 🚧 **my todoist stats:**
@@ -57,4 +45,4 @@ Jika Tidak Keberatan, Silahkan Follow Dan beri Star 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhilz&show_icons=true&theme=gotham" alt="Muhammad Fadollah" />
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhilz&theme=github_dark&exclude= JavaScript,php,html,java,vue,python,C,perl,TypeScript">
