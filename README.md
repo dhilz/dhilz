@@ -45,4 +45,4 @@ Jika Tidak Keberatan, Silahkan Follow Dan beri Star 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhilz&theme=github_dark&exclude=javascript,php,vue,python,perl,typescript">
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhilz&theme=github_dark&exclude=javascript,php,python,typescript">
