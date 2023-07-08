@@ -11,7 +11,7 @@
 
 <br />
 
-Halo Nama Saya [Muhammad Fadollah ](https://dilzshop.my.id/), Saya Seorang Pelajar Sekaligus Development Di Web [dilzshop ](https://dilzshop.my.id/), Dan [getstore](https://getstore.my.id/) and [karuniaakbar](https://karuniaakbar.site/).
+Nama Saya [Muhammad Fadollah ](https://dilzshop.my.id/), Saya Seorang Pelajar Sekaligus Development Di Web [dilzshop ](https://dilzshop.my.id/), Dan [getstore](https://getstore.my.id/) and [karuniaakbar](https://karuniaakbar.site/).
 
 Saya Kini Berkecipung Di Dunia Programer NodeJs, PhP, Python, Sekaligus Pembuatan Api Full Stack.
 
