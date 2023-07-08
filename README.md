@@ -16,7 +16,7 @@ Halo Nama Saya [Muhammad Fadollah ](https://dilzshop.my.id/), Saya Seorang Pelaj
 Saya Kini Berkecipung Di Dunia Programer NodeJs, PhP, Python, Sekaligus Pembuatan Api Full Stack.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/dhilz/dhilz/blob/master/code.gif?raw=true" width="400" height="300" />
   
 - 💼 Jika Ada Yang Ingin Di Tanyakan Segera Hubungi [email](mailto:fadhoelaz@gmail.com) Saya :)
 - 💬 Silahkan Ajukan Pertanyaan Anda Di Email Saya Di Atas;
