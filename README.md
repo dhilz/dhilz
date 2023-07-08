@@ -3,7 +3,7 @@
 <p><em>Iam a Devolopment <a href="https://dilzshop.my.id">Dilzshop</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Working Code In <a href="https://getstore.my.id">getstore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: MrDilz](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)]([https://twitter.com/ThaiiBraga](https://twitter.com/DilzMr))
+[![Twitter MrDilz](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)]([https://twitter.com/ThaiiBraga](https://twitter.com/DilzMr))
 [![GitHub dhilz](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/dhilz)
 
 
